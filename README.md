@@ -1,3 +1,3 @@
 # Movie-Recommender-Engine
 
-Movie Recommneder engine is a content based recommendation system in which engine recommends the movie which is similar to search movie.
+Movie Recommender engine is a content based recommendation system in which engine recommends five movies that are similar to the search movie based on their content, such as genre, actors, directors, or plot keywords.
